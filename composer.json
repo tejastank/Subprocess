@@ -3,5 +3,10 @@
     "description": "Subprocess api for launching commands and communicating with them",
     "require": {
         "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "wapmorgan\\Subprocess\\": "src/"
+        }
     }
 }
