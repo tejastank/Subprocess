@@ -1,5 +1,5 @@
 # Subprocess
-*Subprocess*
+*Subprocess* api for launching commands and communicating with them.
 
 ## Static members
 
