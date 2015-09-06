@@ -1,5 +1,5 @@
 # Subprocess
-*Subprocess* api for launching commands and communicating with them.
+*Subprocess* api for launching commands and communicating with them. [![Latest Stable Version](https://poser.pugx.org/wapmorgan/subprocess/v/stable)](https://packagist.org/packages/wapmorgan/subprocess) [![Latest Unstable Version](https://poser.pugx.org/wapmorgan/subprocess/v/unstable)](https://packagist.org/packages/wapmorgan/subprocess)
 
 ## Static members
 
