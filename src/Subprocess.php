@@ -78,7 +78,7 @@ class Subprocess {
             $this->returnCode = (int)$status["exitcode"];
             return $this->returnCode;
         }
-        return $false;
+        return false;
     }
 
     /**
