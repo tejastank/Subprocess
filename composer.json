@@ -1,6 +1,7 @@
 {
     "name": "wapmorgan/subprocess",
     "description": "Subprocess api for launching commands and communicating with them",
+    "license": "GPL-2.0",
     "require": {
         "php": ">=5.4.0"
     },
